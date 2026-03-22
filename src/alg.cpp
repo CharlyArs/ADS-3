@@ -52,5 +52,3 @@ unsigned int seqCollatz(unsigned int* maxlen,
 	}
 	return num;
 }
-	return num;
-}
